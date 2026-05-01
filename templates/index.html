@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AetherHunt - SOC Analyst Platform</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar glass-panel">
+            <div class="logo-container">
+                <div class="logo-glow"></div>
+                <h2>Aether<span>SOC</span></h2>
+            </div>
+            <nav class="nav-menu">
+                <a href="#" class="active">Dashboard</a>
+            </nav>
+            <div class="actions">
+                <button id="btn-simulate" class="btn btn-secondary">1. Generate Data</button>
+                <button id="btn-run" class="btn btn-primary">2. Run Pipeline</button>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header>
+                <h1>SOC Analyst Dashboard</h1>
+                <p>Monitor, investigate, and resolve security alerts.</p>
+            </header>
+
+            <!-- KPI Cards -->
+            <div class="kpi-grid">
+                <div class="kpi-card glass-panel">
+                    <h3>Total Alerts</h3>
+                    <div class="kpi-value" id="kpi-total">0</div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <h3>Critical Severity</h3>
+                    <div class="kpi-value text-danger" id="kpi-critical">0</div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <h3>High / Medium</h3>
+                    <div class="kpi-value text-accent" id="kpi-high-med">0</div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <h3>Open</h3>
+                    <div class="kpi-value" id="kpi-open">0</div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <h3>In Progress</h3>
+                    <div class="kpi-value text-info" id="kpi-progress">0</div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <h3>Resolved</h3>
+                    <div class="kpi-value text-success" id="kpi-resolved">0</div>
+                </div>
+            </div>
+
+            <!-- Alerts Table -->
+            <div class="alerts-container glass-panel">
+                <div class="panel-header">
+                    <h2>Active Alerts Queue</h2>
+                    <button id="btn-refresh-alerts" class="btn btn-icon">&#x21bb; Refresh</button>
+                </div>
+                <div class="table-wrapper">
+                    <table id="alerts-table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Severity</th>
+                                <th>Alert</th>
+                                <th>Status</th>
+                                <th>Assigned To</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody id="alerts-tbody">
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

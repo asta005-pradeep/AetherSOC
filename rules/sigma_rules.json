@@ -1,0 +1,56 @@
+{
+    "rules": [
+        {
+            "id": "rule_01",
+            "name": "Suspicious PowerShell Encoded Command",
+            "description": "Detects execution of PowerShell with encoded command flags.",
+            "mitre_technique": "T1059.001",
+            "mitre_tactic": "Execution",
+            "condition": {
+                "field": "CommandLine",
+                "operator": "contains_any",
+                "values": ["-enc", "-EncodedCommand", "-e "]
+            },
+            "severity": "high"
+        },
+        {
+            "id": "rule_02",
+            "name": "Credential Dumping via LSASS",
+            "description": "Detects suspicious tools accessing lsass.exe for credential dumping.",
+            "mitre_technique": "T1003.001",
+            "mitre_tactic": "Credential Access",
+            "condition": {
+                "field": "CommandLine",
+                "operator": "contains_all",
+                "values": ["lsass.exe", "dump"]
+            },
+            "severity": "critical"
+        },
+        {
+            "id": "rule_03",
+            "name": "Shadow Copy Deletion",
+            "description": "Detects deletion of volume shadow copies (Ransomware behavior).",
+            "mitre_technique": "T1490",
+            "mitre_tactic": "Impact",
+            "condition": {
+                "field": "CommandLine",
+                "operator": "contains_all",
+                "values": ["vssadmin", "delete", "shadows"]
+            },
+            "severity": "critical"
+        },
+        {
+            "id": "rule_04",
+            "name": "Suspicious Network Connection via Certutil",
+            "description": "Detects certutil being used to download files.",
+            "mitre_technique": "T1105",
+            "mitre_tactic": "Command and Control",
+            "condition": {
+                "field": "CommandLine",
+                "operator": "contains_all",
+                "values": ["certutil.exe", "-urlcache", "-split"]
+            },
+            "severity": "high"
+        }
+    ]
+}
