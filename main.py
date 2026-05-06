@@ -11,7 +11,7 @@ DEFAULT_ALERT_STATUS = "OPEN"
 
 def run_pipeline():
     print("="*50)
-    print(" AetherHunt - Integrated Threat Hunting Pipeline ")
+    print(" AetherSOC - Integrated Threat Hunting Pipeline ")
     print("="*50)
 
     base_dir = os.path.dirname(os.path.abspath(__file__))

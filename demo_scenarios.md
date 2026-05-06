@@ -1,6 +1,6 @@
-# AetherHunt Demo Scenarios
+# AetherSOC Demo Scenarios
 
-This document provides practical, realistic attack simulation examples you can use to demonstrate AetherHunt in an interview or live demo setting. These scenarios map directly to the detection capabilities built into the Rule Engine and the Machine Learning anomaly detector.
+This document provides practical, realistic attack simulation examples you can use to demonstrate AetherSOC in an interview or live demo setting. These scenarios map directly to the detection capabilities built into the Rule Engine and the Machine Learning anomaly detector.
 
 ---
 
@@ -17,7 +17,7 @@ Sysmon records a **Process Creation (Event ID 1)** event.
 *   **ProcessName**: `powershell.exe`
 *   **CommandLine**: The full string above containing `-EncodedCommand`.
 
-**AetherHunt Expected Output:**
+**AetherSOC Expected Output:**
 The Sigma Engine matches the encoded command regex (`SIGMA_001`).
 
 ```json
@@ -50,7 +50,7 @@ Sysmon records a **Process Creation (Event ID 1)**.
 *   **ProcessName**: `procdump.exe`
 *   **CommandLine**: Contains both `procdump` and `lsass.exe`.
 
-**AetherHunt Expected Output:**
+**AetherSOC Expected Output:**
 The Sigma Engine triggers a critical alert for LSASS dumping (`SIGMA_003`).
 
 ```json
@@ -83,7 +83,7 @@ Sysmon records a **Process Creation (Event ID 1)**.
 *   **ProcessName**: `vssadmin.exe`
 *   **CommandLine**: `vssadmin.exe delete shadows /all /quiet`
 
-**AetherHunt Expected Output:**
+**AetherSOC Expected Output:**
 The Sigma Engine immediately catches the `vssadmin delete shadows` syntax (`SIGMA_004`).
 
 ```json
@@ -116,7 +116,7 @@ Sysmon records a **Process Creation (Event ID 1)**.
 *   **ProcessName**: `unknown_dropper_v2.exe` (A highly rare process in the dataset).
 *   **CommandLine**: Contains an unusually high number of special characters and a strange length compared to the baseline.
 
-**AetherHunt Expected Output:**
+**AetherSOC Expected Output:**
 The static rules *miss* this because `unknown_dropper_v2.exe` isn't in a signature database. However, the **Isolation Forest** ML model flags it because the frequency of the process is near zero and the command line complexity deviates wildly from standard benign traffic (`explorer.exe`, `chrome.exe`).
 
 ```json

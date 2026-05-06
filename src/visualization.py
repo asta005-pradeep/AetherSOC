@@ -24,7 +24,7 @@ class Visualizer:
         plt.scatter(df['Timestamp'], scores, c=colors, alpha=0.6, edgecolors='w', s=50)
 
         # Labels and Title
-        plt.title('AetherHunt: Sysmon Anomaly Detection via Isolation Forest')
+        plt.title('AetherSOC: Sysmon Anomaly Detection via Isolation Forest')
         plt.xlabel('Timestamp')
         plt.ylabel('Anomaly Score (Lower = More Anomalous)')
         
