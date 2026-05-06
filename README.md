@@ -6,6 +6,10 @@
 
 AetherSOC is a production-ready, interactive threat hunting dashboard designed to detect malicious activities in Sysmon logs. It uses a powerful hybrid approach, combining **Machine Learning (Isolation Forest)** for anomaly detection and **Rule-based logic (Sigma-like)** for known threat detection. All detections are automatically mapped to the **MITRE ATT&CK®** framework to streamline incident response.
 
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 ## ✨ Features
 - **Interactive SOC Dashboard**: A sleek, dark-themed web interface to manage, investigate, and assign security alerts.
 - **Machine Learning Detection**: Identifies zero-day anomalies using Scikit-learn's `IsolationForest`.
